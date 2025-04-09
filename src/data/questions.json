@@ -1,0 +1,5 @@
+[
+  { "question": "¿Qué tan satisfecho estás con nuestro servicio?", "type": "radio", "options": ["Muy satisfecho", "Satisfecho", "Poco satisfecho"] },
+  { "question": "¿Recomendarías nuestro producto a otros?", "type": "checkbox", "options": ["Sí", "No", "Tal vez"] },
+  { "question": "¿Qué tan fácil fue usar nuestra aplicación?", "type": "text" }
+]
