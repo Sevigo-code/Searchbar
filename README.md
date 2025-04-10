@@ -1,1 +1,1 @@
-Desarrollado con React y variedad de sus librerias junto con bootstrap y SASS. Proyecto modularizado con componente logico encargado de la busqueda. 
+Desarrollado con React y variedad de sus librerias junto con bootstrap y SASS. Implementa una pagina de encuestas interactivas cortas que al final muestra el resultado y resumen de las selecciones.
